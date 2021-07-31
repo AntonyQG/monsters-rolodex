@@ -1,3 +1,7 @@
+# Objetivo del proyecto
+
+Este proyecto personal es para poner en practica conocimientos de React en un proyecto sencillo de consumo de un API para obtener nombres e emails y mostrarlos en un grid con un buscador sencillo.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
